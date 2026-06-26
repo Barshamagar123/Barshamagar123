@@ -33,6 +33,8 @@
 > "Write code that not only works but also tells a story. Make it clean, make it efficient, and make it beautiful."
 
 <br/>
+<br/>
+<br/>
 
 ---
 
@@ -68,112 +70,12 @@
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Barshamagar123&show_icons=true&count_private=true&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barshamagar123&layout=compact&hide_border=true&title_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barshamagar123&theme=dark&hide_border=true&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF6B9D&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshamagar123&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
----
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🛒 E-Commerce Platform</h3>
-        <div align="center">
-          <p><strong>React • Node.js • MongoDB • Stripe</strong></p>
-          <p>Full-featured e-commerce with real-time inventory, payment integration, and admin dashboard</p>
-          <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/🔗-Live_Demo-FF6B9D?style=for-the-badge" />
-            </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂-Repo-FF6B9D?style=for-the-badge" />
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📝 Task Management System</h3>
-        <div align="center">
-          <p><strong>Next.js • PostgreSQL • Prisma • WebSockets</strong></p>
-          <p>Real-time collaborative task management with drag-and-drop and team features</p>
-          <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/🔗-Live_Demo-FF6B9D?style=for-the-badge" />
-            </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂-Repo-FF6B9D?style=for-the-badge" />
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">💬 Chat Application</h3>
-        <div align="center">
-          <p><strong>MERN • Socket.io • JWT • MongoDB</strong></p>
-          <p>Real-time messaging app with user authentication, group chats, and file sharing</p>
-          <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/🔗-Live_Demo-FF6B9D?style=for-the-badge" />
-            </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂-Repo-FF6B9D?style=for-the-badge" />
-            </a>
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📊 Analytics Dashboard</h3>
-        <div align="center">
-          <p><strong>React • D3.js • Express • MySQL</strong></p>
-          <p>Interactive analytics dashboard with real-time data visualization and reports</p>
-          <p>
-            <a href="#">
-              <img src="https://img.shields.io/badge/🔗-Live_Demo-FF6B9D?style=for-the-badge" />
-            </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/📂-Repo-FF6B9D?style=for-the-badge" />
-            </a>
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
----
-
-<!-- Docker Configuration -->
-## 🐳 Docker Setup for Full Stack Development
+### 🐳 Docker Setup for Full Stack Development
 
 <details>
 <summary><b>Click to expand Docker Configuration</b></summary>
 
-### Docker Compose for MERN Stack + Databases
+#### Docker Compose for MERN Stack + Databases
 
 ```yaml
 version: '3.8'
