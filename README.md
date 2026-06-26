@@ -21,9 +21,10 @@
 <br/>
 
 <!-- About Me Section -->
+<!-- About Me Section -->
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/906406/screenshots/5349245/girl_developer.gif" />
 
 👋 Hi there! I'm **Barsha Magar**, a passionate Full Stack Developer with a love for building scalable web applications.
 
