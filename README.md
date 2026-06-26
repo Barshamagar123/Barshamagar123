@@ -1,61 +1,63 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00D4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Database+Architect;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Database+Architect;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=👋%20Namaste!&fontSize=60&fontAlignY=35&animation=twinkling" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=👋%20Namaste!&fontSize=60&fontAlignY=35&animation=twinkling" alt="Header" width="100%"/>
 </div>
 
-<h1 align="center">I'm Barsha Magar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Database Enthusiast</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Barshamagar123&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Barshamagar123?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Barshamagar123?label=Stars&style=social" alt="Stars" />
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=flat" alt="Full Stack Developer" />
-</div>
+<h1 align="center">✨ I'm Barsha Magar ✨</h1>
+<h3 align="center">👩‍💻 Full Stack Developer | MERN Stack | Database Enthusiast</h3>
 
 <br/>
 
 <!-- About Me Section -->
 ## 🚀 About Me
 
-<img align="right" alt="Girl Coding" width="400" src="https://cdn.dribbble.com/users/906406/screenshots/5349245/girl_developer.gif" />
+<img align="right" alt="Girl Coding" width="420" src="https://cdn.dribbble.com/users/906406/screenshots/5349245/girl_developer.gif" />
 
-👋 Hi there! I'm **Barsha Magar**, a passionate Full Stack Developer with a love for building scalable web applications.
+👋 Hi there! I'm **Barsha Magar**, a passionate Full Stack Developer who loves turning ideas into beautiful, scalable web applications.
 
-- 🔭 **Currently working on:** Building full-stack applications with MERN stack
-- 🌱 **Currently learning:** Advanced Docker, Kubernetes, and Microservices
-- 👯 **Looking to collaborate on:** Open Source Projects, Full Stack Applications
+### 💫 About Me:
+- 🎯 **Currently working on:** Building full-stack applications with MERN stack
+- 📚 **Currently learning:** Advanced Docker, Kubernetes, and Microservices
+- 🤝 **Looking to collaborate on:** Open Source Projects & Full Stack Applications
 - 💬 **Ask me about:** MERN Stack, Databases (MongoDB, MySQL, PostgreSQL)
 - 📫 **How to reach me:** [Email](mailto:your.email@gmail.com)
-- ⚡ **Fun fact:** I can debug code faster than I can debug my life! 🐛
+- 🌸 **Fun fact:** I can debug code faster than I can debug my life! 🐛
+- 💻 **Coding style:** Clean code, great design, and lots of ☕
+
+### 🌟 My Developer Philosophy
+> "Write code that not only works but also tells a story. Make it clean, make it efficient, and make it beautiful."
+
+<br/>
+
+---
 
 ### 🛠️ My Tech Stack
 
-#### Frontend
+#### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-#### Backend
+#### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### Databases
+#### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### DevOps & Tools
+#### 🐳 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -64,26 +66,106 @@
 
 <br/>
 
+---
+
 <!-- GitHub Stats -->
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Barshamagar123&show_icons=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barshamagar123&layout=compact&hide_border=true&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Barshamagar123&show_icons=true&count_private=true&hide_border=true&title_color=FF6B9D&icon_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barshamagar123&layout=compact&hide_border=true&title_color=FF6B9D&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barshamagar123&theme=dark&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barshamagar123&theme=dark&hide_border=true&stroke=FF6B9D&ring=FF6B9D&fire=FF6B9D&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FF6B9D&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshamagar123&bg_color=0d1117&color=00d4ff&line=00d4ff&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshamagar123&bg_color=0d1117&color=FF6B9D&line=FF6B9D&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
+
+---
+
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🛒 E-Commerce Platform</h3>
+        <div align="center">
+          <p><strong>React • Node.js • MongoDB • Stripe</strong></p>
+          <p>Full-featured e-commerce with real-time inventory, payment integration, and admin dashboard</p>
+          <p>
+            <a href="#">
+              <img src="https://img.shields.io/badge/🔗-Live_Demo-FF6B9D?style=for-the-badge" />
+            </a>
+            <a href="#">
+              <img src="https://img.shields.io/badge/📂-Repo-FF6B9D?style=for-the-badge" />
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📝 Task Management System</h3>
+        <div align="center">
+          <p><strong>Next.js • PostgreSQL • Prisma • WebSockets</strong></p>
+          <p>Real-time collaborative task management with drag-and-drop and team features</p>
+          <p>
+            <a href="#">
+              <img src="https://img.shields.io/badge/🔗-Live_Demo-FF6B9D?style=for-the-badge" />
+            </a>
+            <a href="#">
+              <img src="https://img.shields.io/badge/📂-Repo-FF6B9D?style=for-the-badge" />
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">💬 Chat Application</h3>
+        <div align="center">
+          <p><strong>MERN • Socket.io • JWT • MongoDB</strong></p>
+          <p>Real-time messaging app with user authentication, group chats, and file sharing</p>
+          <p>
+            <a href="#">
+              <img src="https://img.shields.io/badge/🔗-Live_Demo-FF6B9D?style=for-the-badge" />
+            </a>
+            <a href="#">
+              <img src="https://img.shields.io/badge/📂-Repo-FF6B9D?style=for-the-badge" />
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📊 Analytics Dashboard</h3>
+        <div align="center">
+          <p><strong>React • D3.js • Express • MySQL</strong></p>
+          <p>Interactive analytics dashboard with real-time data visualization and reports</p>
+          <p>
+            <a href="#">
+              <img src="https://img.shields.io/badge/🔗-Live_Demo-FF6B9D?style=for-the-badge" />
+            </a>
+            <a href="#">
+              <img src="https://img.shields.io/badge/📂-Repo-FF6B9D?style=for-the-badge" />
+            </a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
 
 <!-- Docker Configuration -->
 ## 🐳 Docker Setup for Full Stack Development
